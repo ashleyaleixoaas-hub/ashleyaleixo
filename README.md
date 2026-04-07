@@ -1,16 +1,12 @@
-# Hello World! Eu sou a Ashley Aleixo 🎀🤓☝🏻
-
-**Estudante de Análise e Desenvolvimento de Sistemas (PUC Minas) | Em transição da Saúde para a Tecnologia**
-
-Sou apaixonada por resolver problemas e garantir que processos críticos funcionem com precisão. Construí uma base sólida de resiliência, atenção aos detalhes e comunicação assertiva atuando como Técnica de Enfermagem (Rede Mater Dei). Agora, estou aplicando essa bagagem no mundo da tecnologia, com foco em suporte, infraestrutura e desenvolvimento.
-
-### 🚀 Sobre mim
-* 🔭 Atualmente graduando em **ADS na PUC Minas**.
-* 🌱 Focando meus estudos em: **Front-end (HTML, CSS, JS), Banco de Dados (SQL) e Lógica de Programação**.
-* 🛠️ Conhecimentos práticos em: **Manutenção de hardware, formatação, sistemas operacionais e Pacote Office**.
-* 🎯 Buscando minha primeira oportunidade como Estagiária ou Jovem Aprendiz em TI.
-* ⚡ Curiosidade: Entendo na prática como a tecnologia salva vidas e não pode falhar, pois já vivenciei isso no Centro Cirúrgico!
-
-### 📫 Como falar comigo:
-* **LinkedIn:** [linkedin.com/in/ashley-aleixo](https://linkedin.com/in/ashley-aleixo)
-* **E-mail:** ashleyaleixo.aas@gmail.com
+Hello World! I'm Ashley Aleixo 👋
+Information Systems Analysis and Development Student (PUC Minas) | Transitioning from Healthcare to Technology
+I am passionate about solving problems and ensuring critical processes run with absolute precision. I built a solid foundation of resilience, attention to detail, and assertive communication through my experience as a Licensed Practical Nurse at Rede Mater Dei. Now, I am leveraging this background in the tech world, focusing on Support, Infrastructure, and Development.
+🚀 About Me
+• 🔭 Currently pursuing a degree in Analysis and Development of Systems (ADS) at PUC Minas.
+• 🌱 Focusing my studies on: Front-end (HTML, CSS, JS), Databases (SQL), and Programming Logic.
+• 🛠️ Hands-on skills in: Hardware maintenance, system formatting, Operating Systems, and Microsoft Office Suite.
+• 🎯 Seeking my first opportunity as a Tech Intern or Junior Apprentice.
+• ⚡ Fun Fact: I understand firsthand how technology saves lives and cannot afford to fail—I’ve lived that reality inside the Operating Room!
+📫 Get in touch:
+• LinkedIn: linkedin.com/in/ashley-aleixo
+• Email: ashleyaleixo.aas@gmail.com
