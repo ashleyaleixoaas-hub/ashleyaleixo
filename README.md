@@ -1,4 +1,4 @@
-# Olá! Eu sou a Ashley Aleixo 👋
+# Hello World! Eu sou a Ashley Aleixo 🎀🤓☝🏻
 
 **Estudante de Análise e Desenvolvimento de Sistemas (PUC Minas) | Em transição da Saúde para a Tecnologia**
 
