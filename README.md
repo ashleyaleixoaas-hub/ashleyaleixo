@@ -15,7 +15,7 @@ With a background as a Licensed Practical Nurse at **Rede Mater Dei**, I've deve
 
 * 🔭 **Currently:** Pursuing my degree in ADS and building my technical foundation.
 * ⚡ **Fun Fact:** I’ve seen firsthand how technology saves lives in the Operating Room. This experience gave me a unique perspective on why system reliability is non-negotiable.
-* 🎯 **Goal:** Seeking my first internship or junior opportunity in IT (Support, Infrastructure, or Front-end).
+* 🎯 **Goal:** Seeking my first internship or junior opportunity in IT (Support, Infrastructure, Back-end & Data or Front-end).
 
 ---
 
