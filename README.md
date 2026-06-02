@@ -30,11 +30,6 @@ With a background as a Licensed Practical Nurse at **Rede Mater Dei**, I've deve
 
 ---
 
-### 📊 My Progress
-![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleyaleixo&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with me:
 
 <p align="left">
